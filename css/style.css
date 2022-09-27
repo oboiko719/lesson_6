@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+.page {
+  max-width: 810px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.title {
+  font-size: 46px;
+  font-weight: 900;
+  line-height: 3.7;
+  color: #1E212C;
+  margin-bottom: 92px;
+}
+
+.image {
+  max-width: 100%;
+  margin-bottom: 60px;
+}
+
+.text {
+  font-size: 20px;
+  line-height: 1.9;
+  color: #1E212C;
+  margin-bottom: 24px;
+  font-weight: 700;
+}
+
+.desk {
+  margin-bottom: 24px;
+}
+
+.text_2 {
+  margin: 48px 0 48px 58px;
+  font-size: 20px;
+  color: #1E212C;
+  line-height: 1.9;
+  font-weight: 700;
+}
+
+.list {
+  line-height: 1.6;
+  margin-left: 33px;
+  margin-bottom: 20px;
+}
+
+.link {
+  margin-bottom: 4px;
+}
+
+.practic {
+  max-width: 700px;
+  background-color: rgb(225, 211, 143);
+  margin: 0 auto;
+  padding: 30px;
+  margin-bottom: 15px;
+}
+
+.blok_1 {
+  background-color: rgb(49, 156, 202);
+  margin-bottom: 40px;
+  padding: 10px;
+  font-size: 30px;
+  max-height: 200px;
+  overflow: auto;
+  box-shadow: -10px 20px 25px gray;
+  
+}
+
+.blok_2 {
+  background-color:blueviolet;
+  margin: 0 0 20px auto;
+  padding: 10px;
+  color:aliceblue;
+  max-width: 500px;
+  max-height: 250px;
+  font-size: 20px;
+  overflow: hidden;
+  opacity: 0.5;
+  outline: 15px red solid;
+}
+
+.blok_3 {
+  background-color:blueviolet;
+  margin: 0 0 20px auto;
+  padding: 10px;
+  color:aliceblue;
+  max-width: 500px;
+  max-height: 250px;
+  font-size: 20px;
+  overflow: hidden;
+  opacity: 0.5;
+  border: 15px red solid;
+}
+
+.inline {
+  background-color:darkgoldenrod;
+  margin-bottom: 20px;
+  max-width: 300px;
+  visibility: hidden;
+  padding: 30px;
+  opacity: 0.5;
+  display: block;
+}
+
+.blok_circle {
+  border: 2px solid crimson;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  padding: 50px;
+  margin: 0 auto;
+  box-shadow: 10px 15px 30px royalblue, inset 10px 15px 30px royalblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
